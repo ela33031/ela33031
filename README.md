@@ -1,5 +1,5 @@
 # 💫 About Me:
----- Hi, I’m El Azzouzi Mohamed<br>---- I’m currently learning ReactJS , Laravel<br>---- Ask me about Problem solving<br>---- How to reach me mohamedelazzouzi2022@gmail.com
+---- Hi, I’m El Azzouzi Mohamed<br>---- Ask me about Problem solving<br>---- How to reach me mohamedelazzouzi2022@gmail.com
 
 
 ## 🌐 Socials:
